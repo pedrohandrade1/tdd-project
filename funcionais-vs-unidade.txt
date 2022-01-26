@@ -1,0 +1,2 @@
+Testes de unidade são feitos na perspectiva dos programadores, são feitos para garantir que um método de uma classe execute tarefas específicas.
+Testes funcionais são feitos na perspectiva dos usuários, eles garantem que o SUT esteja funcionando como os usuários esperam.
