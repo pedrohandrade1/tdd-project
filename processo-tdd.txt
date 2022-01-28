@@ -1,0 +1,6 @@
+Primeiramente no processo TDD com testes de unidade e funcionais realizamos a criação de testes funcionais,
+caso o teste funcional passe(o que não acontece na primeira execução) verificamos se a aplicação precisa de refatoração
+e caso seja necessário entramos no ciclo da criação de testes de unidade. Caso o teste funcional não passe, também entramos
+no ciclo de criação de testes de unidade. Assim, repetimos o processo básico do TDD para a criação de testes de unidades, uma vez que
+os testes de unidades todos passam e o código não necessita de refatorações, voltamos para o ciclo TDD dos testes funcionais e
+repetimos todo esse processo novamente até que os testes funcionais passem e a aplicação não necessite de refatorações.
